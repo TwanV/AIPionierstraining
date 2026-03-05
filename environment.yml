@@ -1,0 +1,10 @@
+name: ai-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - tensorflow
+  - matplotlib
+  - numpy
+  - pillow
+  - scikit-learn
