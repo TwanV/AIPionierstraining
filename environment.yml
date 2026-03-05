@@ -3,8 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - tensorflow
   - matplotlib
   - numpy
   - pillow
   - scikit-learn
+  - pip
+  - pip:
+    - tensorflow-cpu==2.10.0
