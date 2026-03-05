@@ -1,4 +1,5 @@
-numpy
 matplotlib
+numpy
+tensorflow-cpu
 Pillow
 scikit-learn
